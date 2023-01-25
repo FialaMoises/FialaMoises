@@ -5,18 +5,9 @@
 ### Hey Dev's!! My name is Moisés Fiala, welcome to my Github! 🦊
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=00BFFF&width=535&lines=Front-end+Developer)](https://git.io/typing-svg)
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FialaMoises&bg_color=000000&color=009dff&line=190af0&point=0e53dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FialaMoises&bg_color=171515&color=009dff&line=190af0&point=0e53dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-• I’m currently studying on Udemy.
-<br>
-• I’m currently learning React, JavaScript/Typescript, API's.
-<br>
-• I'm Looking for oportunities and new projects.
-<br>
-• I’m looking for help with React.
-<br>
-• How to reach me: fiala.dev@gmail.com.
-<br><br>
+I am a passionate web developer always looking to learn and grow. Currently studying on Udemy to improve my skills in React, JavaScript and APIs. I am seeking new opportunities and projects to apply my knowledge and skills. My goal is always to build high-quality and scalable solutions. If you are interested in discussing projects or hiring me, feel free to reach out to me at fiala.dev@gmail.com.
   
  ```javascript
 const MoisesFiala = {
