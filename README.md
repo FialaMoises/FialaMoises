@@ -7,7 +7,13 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=00BFFF&width=535&lines=Back-end+Developer)](https://git.io/typing-svg)
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FialaMoises&bg_color=171515&color=009dff&line=ffffff&point=0e98dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-I am a passionate web developer always looking to learn and grow. Currently studying on Udemy to improve my skills in React, JavaScript and APIs. I am seeking new opportunities and projects to apply my knowledge and skills. My goal is always to build high-quality and scalable solutions. If you are interested in discussing projects or hiring me, feel free to reach out to me at fiala.dev@gmail.com.
+Meu nome é Moises Fiala e sou um desenvolvedor Python júnior, com forte interesse em programação e tecnologia. Atualmente, estou me dedicando a aprimorar minhas habilidades em Python, frameworks web e banco de dados.
+
+Aqui no GitHub, você encontrará alguns dos meus projetos pessoais, bem como alguns trabalhos em que contribuí. Sempre busco escrever códigos limpos, bem estruturados e com testes automatizados, para garantir a qualidade e a escalabilidade das soluções que desenvolvo.
+
+Estou animado para colaborar em projetos open source e aprender com outros desenvolvedores. Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo.
+
+Para contato -> fiala.dev@gmail.com.
   
  ```javascript
 const MoisesFiala = {
