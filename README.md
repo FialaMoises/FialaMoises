@@ -4,7 +4,7 @@
 
 ### Hey Dev's!! My name is Moisés Fiala, welcome to my Github! 🦊
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=00BFFF&width=535&lines=Front-end+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=5016&pause=1000&color=00BFFF&width=535&lines=Back-end+Developer)](https://git.io/typing-svg)
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FialaMoises&bg_color=171515&color=009dff&line=ffffff&point=0e98dd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 I am a passionate web developer always looking to learn and grow. Currently studying on Udemy to improve my skills in React, JavaScript and APIs. I am seeking new opportunities and projects to apply my knowledge and skills. My goal is always to build high-quality and scalable solutions. If you are interested in discussing projects or hiring me, feel free to reach out to me at fiala.dev@gmail.com.
@@ -13,9 +13,9 @@ I am a passionate web developer always looking to learn and grow. Currently stud
 const MoisesFiala = {
   
   studyingOn: [Udemy],
-  codeLearning: [JavaScript, Typescript, API's],
+  codeLearning: [Python, SQL, API's],
   tools: [Gitlab, Github],
-  learning: [React, Node],
+  learning: [Django],
 }
 ```
 <br>
